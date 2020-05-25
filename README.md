@@ -2,6 +2,8 @@
 Control Code for a Power Wheels Jeep, modified with a NodeMCU ESP8266 microcontroller and Cytron MDD10A 10Amp 5V-30V DC Motor Driver 
 
 
+![](example.png)
+
 ## Parts:
 - NodeMCU Amica ESP8266: https://www.amazon.com/KeeYees-Internet-Development-Wireless-Compatible/dp/B07S5Z3VYZ
 - Cytron MDD10A 10Amp 5V-30V DC Motor Driver: https://www.cytron.io/p-10amp-5v-30v-dc-motor-driver-2-channels
